@@ -1,3 +1,3 @@
 # cillian
 
-![stats](https://gh-readme-profile.vercel.app/api?username=cilliaann&locale=en)
+hello! im cillian. i dont often use github, but when i do, im nosying documentation and what not.
